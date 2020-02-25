@@ -1,1 +1,1 @@
-# my_first_project_cpp_game
+# My_First_Project
